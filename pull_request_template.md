@@ -1,4 +1,4 @@
 - [ ] Does this PR include a migration?
-- [ ] Have you followed the [best practices](https://github.com/Widewail/engineering-docs/wiki/BestPractices)
+- [ ] Have you followed the [best practices](https://github.com/Widewail/engineering-docs/wiki/BestPractices)?
 - [ ] Are your transactions small?
 - [ ] Do your transactions include queueing of messages?
