@@ -1,3 +1,7 @@
+## Author Checklist
+
+- [ ] I validated this in QA or have noted below why it cannot
+
 ## Release Notes
 
 - [ ] Includes a migration
