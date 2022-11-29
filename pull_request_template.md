@@ -5,6 +5,7 @@
 ## Release Notes
 
 - [ ] Includes a migration
+- [ ] Includes Infrastructure Changes
 
 ## Reviewer Checklist
 
@@ -12,3 +13,5 @@
 - [ ] No large transaction boundaries
 - [ ] Queued messages published outside of transactions (if applicable)
 - [ ] API calls happen outside of transactions (if applicable)
+
+**This template is managed by [this template](https://github.com/Widewail/.github/edit/master/pull_request_template.md)
