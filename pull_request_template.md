@@ -5,6 +5,7 @@
 ## Release Notes
 
 - [ ] Includes a migration
+- [ ] Migration is [Zero Downtime](https://docs.gitlab.com/ee/development/database/avoiding_downtime_in_migrations.html)
 - [ ] Includes Infrastructure Changes
 
 ## Reviewer Checklist
