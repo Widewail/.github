@@ -11,6 +11,7 @@
 ## Reviewer Checklist
 
 - [ ] Follows [best practices](https://github.com/Widewail/engineering-docs/wiki/BestPractices)
+- [ ] Logging is sufficient to monitor correct behavior and diagnose errors
 - [ ] No large transaction boundaries
 - [ ] Queued messages published outside of transactions (if applicable)
 - [ ] API calls happen outside of transactions (if applicable)
